@@ -6,22 +6,24 @@
 <https://www.youtube.com/watch?v=liyy9eb2xb0>
 
 油泼辣子配方：
-辣椒粉（带籽）：30克，1/3 杯
-辣椒粉：35克，1/3 杯
-五香粉：2克，1/2 小勺
-生姜粉：2克，1/2 小勺
-芝麻：10克，1 大勺
-香醋：15克，1 大勺
-油：440克，2 杯
+
+- 辣椒粉（带籽）：30克，1/3 杯
+- 辣椒粉：35克，1/3 杯
+- 五香粉：2克，1/2 小勺
+- 生姜粉：2克，1/2 小勺
+- 芝麻：10克，1 大勺
+- 香醋：15克，1 大勺
+- 油：440克，2 杯
 
 Chili oil ingredients:
-Chili powder with seeds: 30 g, 1/3 cup
-Chili powder: 35 g, 1/3 cup
-5-spice powder: 2 g, 1/2 teaspoon
-Ginger powder: 2 g, 1/2 teaspoon
-Sesame: 10 g, 1 tablespoon
-Chinkiang vinegar: 15g, 1 tablespoon
-Oil: 440 g, 2 cups
+
+- Chili powder with seeds: 30 g, 1/3 cup
+- Chili powder: 35 g, 1/3 cup
+- 5-spice powder: 2 g, 1/2 teaspoon
+- Ginger powder: 2 g, 1/2 teaspoon
+- Sesame: 10 g, 1 tablespoon
+- Chinkiang vinegar: 15g, 1 tablespoon
+- Oil: 440 g, 2 cups
 
 用两倍辣椒
 
@@ -30,16 +32,18 @@ Oil: 440 g, 2 cups
 ## 日式高汤
 
 [ 材料 - Ingredients ]
-干昆布 Dried kelp ( Konbu ) - 10gm
-柴鱼片 Dried Bonito flakes ( Katsuo Bushi ) - 20gm
-白芝麻 White sesame - 2 小匙
 
-[ 调味料 - Seasonings ] 
-水 Water - 1 liter ( 1000cc )
-麻油 Sesame oil - 少许
-清酒 Sake - 1 大匙
-味淋 Mirin - 1/2 大匙
-酱油 Soy sauce - 1 大匙
+- 干昆布 Dried kelp ( Konbu ) - 10gm
+- 柴鱼片 Dried Bonito flakes ( Katsuo Bushi ) - 20gm
+- 白芝麻 White sesame - 2 小匙
+
+[ 调味料 - Seasonings ]
+
+- 水 Water - 1 liter ( 1000cc )
+- 麻油 Sesame oil - 少许
+- 清酒 Sake - 1 大匙
+- 味淋 Mirin - 1/2 大匙
+- 酱油 Soy sauce - 1 大匙
 
 [ 做法 - Method ]
 
