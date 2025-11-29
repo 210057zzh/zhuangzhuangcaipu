@@ -58,7 +58,7 @@ Oil: 440 g, 2 cups
 9. 加入清酒、味淋、酱油 & 白芝麻混合好后熄火。
 ＊配白饭很适合，裝在便当盒也很好 ～！
 
-![日式高汤](pics\rishigaotang.png?raw=true "日式高汤")
+![日式高汤](pics/rishigaotang.png)
 
 ## 饼
 
