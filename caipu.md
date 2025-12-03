@@ -170,3 +170,16 @@ broil on high 10 min
 
 - gulf white
 - ![日式高汤](pics/xia.png)
+
+## 排骨
+
+- 2 slabs of pork loin back ribs 两扇豬背肋排
+- 1/2 cup dark brown sugar 紅糖
+- 1 tbsp salt 盐
+- 1/4 cup paprika 紅椒粉 https://amzn.to/3rvcWUQ
+- 1 tbsp garlic powder 蒜粉
+- 1 tbsp onion powder 洋葱粉
+- 1tbsp cayenne pepper 卡宴辣椒粉
+- 1/2 tbsp black pepper 黑胡椒粉
+- 1/2 cup barbecue sauce 烧烤酱：https://amzn.to/3cdlw39
+- 2 tbsp rice vinegar 米醋
