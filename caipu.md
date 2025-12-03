@@ -183,3 +183,5 @@ broil on high 10 min
 - 1/2 tbsp black pepper 黑胡椒粉
 - 1/2 cup barbecue sauce 烧烤酱：https://amzn.to/3cdlw39
 - 2 tbsp rice vinegar 米醋
+
+300 1h30m 30m
