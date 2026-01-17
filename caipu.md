@@ -176,12 +176,12 @@ broil on high 10 min
 - 2 slabs of pork loin back ribs 两扇豬背肋排
 - 1/2 cup dark brown sugar 紅糖
 - 1 tbsp salt 盐
-- 1/4 cup paprika 紅椒粉 https://amzn.to/3rvcWUQ
+- 1/4 cup paprika 紅椒粉 <https://amzn.to/3rvcWUQ>
 - 1 tbsp garlic powder 蒜粉
 - 1 tbsp onion powder 洋葱粉
 - 1tbsp cayenne pepper 卡宴辣椒粉
 - 1/2 tbsp black pepper 黑胡椒粉
-- 1/2 cup barbecue sauce 烧烤酱：https://amzn.to/3cdlw39
+- 1/2 cup barbecue sauce 烧烤酱：<https://amzn.to/3cdlw39>
 - 2 tbsp rice vinegar 米醋
 
 300 1h30m 30m
@@ -195,7 +195,7 @@ broil on high 10 min
 
 ### 🥟 虾仁猪肉韭菜云吞（约150个）
 
-#### 🧾 材料：
+#### 🧾 材料
 
 **云吞皮**：1包（Twin Marquis 真味 16 oz / 454 g）
 **猪肉馅**：1.8 lb（约800 g，7肥3瘦或70/30）
@@ -204,18 +204,18 @@ broil on high 10 min
 
 **调味料：**
 
-* Soy sauce（生抽）2 Tbsp
-* Shaoxing wine / cooking wine（料酒）1 Tbsp
-* Sesame oil（香油）1.5 Tbsp
-* Salt（盐）1.5 tsp
-* White pepper（白胡椒粉）½ tsp
-* Minced ginger（姜末）1 Tbsp
-* Cornstarch（淀粉）1 tsp
-* Optional：少许 sugar 或 chicken bouillon 提鲜
+- Soy sauce（生抽）2 Tbsp
+- Shaoxing wine / cooking wine（料酒）1 Tbsp
+- Sesame oil（香油）1.5 Tbsp
+- Salt（盐）1.5 tsp
+- White pepper（白胡椒粉）½ tsp
+- Minced ginger（姜末）1 Tbsp
+- Cornstarch（淀粉）1 tsp
+- Optional：少许 sugar 或 chicken bouillon 提鲜
 
 ---
 
-### 👩‍🍳 制作步骤：
+### 👩‍🍳 制作步骤
 
 #### ① 调制肉馅
 
@@ -225,32 +225,41 @@ broil on high 10 min
 
 #### ② 拌入蔬菜
 
-4. 加入 **切好的韭菜**。
-5. 加入 **香油、淀粉**，轻轻翻拌均匀（不要太狠搅，以免韭菜出水）。
+1. 加入 **切好的韭菜**。
+2. 加入 **香油、淀粉**，轻轻翻拌均匀（不要太狠搅，以免韭菜出水）。
 
 #### ③ 包云吞
 
-6. 取一张云吞皮，放约 **1 tsp（9–10 g）馅料**。
-7. 用手指蘸点水沿边抹一圈，对折成三角或矩形，捏紧封口。
-8. 两角可往中间折、重叠，轻捏成“元宝形”。
+1. 取一张云吞皮，放约 **1 tsp（9–10 g）馅料**。
+2. 用手指蘸点水沿边抹一圈，对折成三角或矩形，捏紧封口。
+3. 两角可往中间折、重叠，轻捏成“元宝形”。
 
 > ✅ 记得盖湿布，防止云吞皮变干。
 
 #### ④ 保存或烹煮
 
-* **立即煮**：
+- **立即煮**：
   水滚后下云吞，中火煮 4–5 分钟（浮起后再煮约 1 分钟）。
-* **冷冻保存**：
+- **冷冻保存**：
   平铺在托盘上冷冻成型后，再装入冷冻袋保存，可放 1–2 个月。
   下次直接下滚水煮，不用解冻。
 
 ---
 
-#### 🍜 建议搭配：
+#### 🍜 建议搭配
 
-* 清汤（骨汤或鸡汤），加紫菜、葱花、香油；
-* 或搭配辣油、酱油、醋调成“红油抄手”式吃法。
+- 清汤（骨汤或鸡汤），加紫菜、葱花、香油；
+- 或搭配辣油、酱油、醋调成“红油抄手”式吃法。
 
 ---
 
 要不要我帮你写一个「适合做75个云吞（半量）」的版本？方便一次吃或冷冻保存。
+
+## 面条
+
+材料 (4人的分量) / Ingredients (for 4 people):
+中筋面粉 400克/ All-purpose flour 400g
+碱面 1/2茶匙 / Alkaline powder 1/2Tsp
+清水 150毫升 / Water 150ml
+鸡蛋 1个 / 1 Egg
+盐 1/2茶匙 / Salt 1/2Tsp
