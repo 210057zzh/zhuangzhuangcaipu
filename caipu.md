@@ -263,3 +263,17 @@ broil on high 10 min
 清水 150毫升 / Water 150ml
 鸡蛋 1个 / 1 Egg
 盐 1/2茶匙 / Salt 1/2Tsp
+
+## korean soup
+
+Quick Ratio Guide (per 1 block of tofu / 2 cups water)
+
+Gochujang (spicy paste) → 1–1.5 tbsp
+
+Doenjang or ssamjang → 1 tsp
+
+Soy sauce → 1 tsp
+
+Garlic → 2 cloves
+
+Water → 2 cups
